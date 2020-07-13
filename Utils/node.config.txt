@@ -1,3 +1,6 @@
 Essa extensão cria um servidor node local util para testar 
 documentos rapidamente
 - live-server
+
+Extensão
+- live server extensão para o VSCode
